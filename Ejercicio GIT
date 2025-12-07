@@ -2,4 +2,5 @@ a=10
 b=20
 c=30*2
 d=1
-print(a+b+c)*d
+e=20
+print(a+b+c+e)*d
